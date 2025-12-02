@@ -9,7 +9,7 @@
 
 👋 **¡Bienvenido al repositorio de Bitware!**
 
-**Bitware** es una plataforma de comercio electrónico integral diseñada para modernizar la venta de componentes tecnológicos. [cite_start]A diferencia de un e-commerce tradicional, esta solución integra **Inteligencia Artificial (IA)** y **Minería de Datos** para optimizar tanto la experiencia del usuario como la gestión administrativa.
+**Bitware** es una plataforma de comercio electrónico integral diseñada para modernizar la venta de componentes tecnológicos. A diferencia de un e-commerce tradicional, esta solución integra **Inteligencia Artificial (IA)** y **Minería de Datos** para optimizar tanto la experiencia del usuario como la gestión administrativa.
 
 El sistema implementa una **Arquitectura Multicapa** que conecta un backend robusto en **PHP/MySQL** con microservicios de IA desarrollados en **Python (FastAPI/Flask)**, permitiendo funcionalidades avanzadas como recomendaciones personalizadas y predicción de stock.
 
@@ -62,7 +62,7 @@ El sistema sigue un patrón **MVC (Modelo-Vista-Controlador)** complementado con
 * **Backend:** PHP 8 Nativo.
 * **Base de Datos:** MySQL Relacional.
 * **IA Services:** Python (API REST).
-* [cite_start]**Infraestructura:** Despliegue en VPS Cloud[cite: 106].
+* **Infraestructura:** Despliegue en VPS Cloud.
 
 ---
 
